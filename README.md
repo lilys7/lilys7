@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!👋
 
 <!--
 **lilys7/lilys7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1. My name is Lily Shen and I'm a CS student at the University of Maryland
+2. 🔭 I’m currently working as a Full-Stack Developer for Exiger's supplier portal through UMD App Development Club and am a Backend Engineer for Replenish NutrAI, a clinical supplement startup.
+3. 📫 How to reach me: lilyshen@terpmail.umd.edu
+4. 😄 LinkedIn: https://www.linkedin.com/in/lilyshen7
+
+
