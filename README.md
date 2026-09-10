@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 1. My name is Lily Shen and I'm a CS student at the University of Maryland
-2. 🔭 I’m currently working as a Full-Stack Developer for Exiger's supplier portal through UMD App Development Club and am a Backend Engineer for Replenish NutrAI, a clinical supplement startup.
+2. 🔭 I’m currently a part-time AI/ML Engineering Intern at General Dynamics Information Technology, working with 3D LiDAR semantic segmentation models for defense applications.
 3. 📫 How to reach me: lilyshen@terpmail.umd.edu
 4. 😄 LinkedIn: https://www.linkedin.com/in/lilyshen7
 
